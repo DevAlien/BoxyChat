@@ -1,3 +1,3 @@
 BoxyChat
 ========
-https://www.codeship.io/projects/e06d4af0-5ab7-0131-7839-5e6704b7eb68/status
+https://www.codeship.io/projects/a83b4b40-5b82-0131-1803-2ecf22a202fb/status
